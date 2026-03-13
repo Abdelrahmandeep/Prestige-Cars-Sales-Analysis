@@ -1,5 +1,6 @@
 # Prestige Cars Sales Performance Analysis 🚗📊
-![Prestige Cars Dashboard](Screenshot 2026-02-17 021752.png)
+<img width="876" height="249" alt="image" src="https://github.com/user-attachments/assets/bc0ba025-2c5c-4fb1-9c4f-fcde99eb9b59" />
+
 
 ## Project Overview
 This project involves an end-to-end data analysis of a luxury car dealership's sales performance for the year 2015. The objective was to clean the raw data, uncover underlying trends, and build an interactive dashboard to track key financial metrics (KPIs) and evaluate brand performance across global markets.
