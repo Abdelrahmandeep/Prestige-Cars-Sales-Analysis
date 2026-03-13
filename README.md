@@ -1,5 +1,6 @@
 # Prestige Cars Sales Performance Analysis 🚗📊
-<img width="876" height="249" alt="image" src="https://github.com/user-attachments/assets/bc0ba025-2c5c-4fb1-9c4f-fcde99eb9b59" />
+<img width="1226" height="841" alt="dashboard" src="https://github.com/user-attachments/assets/3c85ec95-16ed-4cc9-940c-637f92e9f576" />
+
 
 
 ## Project Overview
